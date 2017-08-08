@@ -14,7 +14,8 @@ import util.DBManager;
 
 public class Operate {
 	
-	
+	//tcfgynimo,lp.[;/'yjhngbdsfghjkl;
+	private int i=0;
 	
 	
 	
