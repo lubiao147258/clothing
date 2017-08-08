@@ -13,6 +13,11 @@ import util.DBManager;
 
 
 public class Operate {
+	
+	
+	
+	
+	
 		
 		private static Statement statement = null;
 		private static ResultSet resultSet = null;
